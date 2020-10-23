@@ -1,0 +1,6 @@
+#surefire_0
+#Mon Feb 10 14:02:35 PST 2020
+basedir=/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework
+surefire.suiteXmlFiles=testng_Complete-AA.xml,testng_Complete-MM.xml
+user.dir=/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework
+localRepository=/Users/ssawhney/.m2/repository

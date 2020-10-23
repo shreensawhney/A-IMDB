@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52f73dab-9295-4cfd-8452-ccc3209b5c23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SignUpPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SignUpPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test Results - TVConversions_OverviewPageTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/CapabilityFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/CapabilityFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/OptionsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/OptionsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Account_AccountInfoPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Account_BrandsofInterestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Account_EmailPasswordPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Account_NotificationsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Account_UserManagementPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AgreementsAndTermsOfUsePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_AiringsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_BrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_CreativeWearPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_CreativesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_DaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_IndustriesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_ShowGenresPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_SpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/BrandOverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/CopyrightPolicyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalyticsMatchedDigital_OnlineViewsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalyticsMatchedDigital_OverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalyticsMatchedDigital_SearchActivityPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalyticsMatchedDigital_SocialActivityPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_BrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_CreativesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_DaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_EpisodesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_IndustriesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_LifetimeRatingsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_SpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_AttentionAnalytics_BrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_AttentionAnalytics_IndustriesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_AttentionAnalytics_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_AttentionAnalytics_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_AttentionAnalytics_SpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_EngagementAnalytics_BrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_EngagementAnalytics_IndustriesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_EngagementAnalytics_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_EngagementAnalytics_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_EngagementAnalytics_SpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_MediaMeasurement_BrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_MediaMeasurement_IndustriesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_MediaMeasurement_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_MediaMeasurement_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_MediaMeasurement_SpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/IndustryOverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Insights_CustomIndustriesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Insights_CustomReportsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Insights_NewSpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Insights_PivotReportPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Insights_SpendComparisonPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/LoginToAllPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_AiringsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_BrandsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_CreativesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_DMAsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_DaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_IndustriesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_LocalAiringsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_ShowGenresPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MediaMeasurement_SpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MixedAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MovieConversionsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MovieConversions_CreativesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MovieConversions_MediaConversions_AiringsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MovieConversions_MediaConversions_DaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MovieConversions_MediaConversions_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MovieConversions_MediaConversions_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/MovieConversions_OverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/NetworkOverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/NetworkOverview_TuneInConversionsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/OTTAnalytics_FrequencyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/OTTAnalytics_ImpressionsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/OTTAnalytics_PublishersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/OTTAnalytics_ReachPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/PrivacyPolicyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SegmentAnalyticsRecommendations_DaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SegmentAnalyticsRecommendations_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SegmentAnalytics_ConversionsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SegmentAnalytics_MediaPlanningPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInConversions_AiringsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInConversions_CreativesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInConversions_DaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInConversions_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInConversions_OverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInConversions_ShowGenresPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInConversions_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInConversions_SpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInRecommendations_CableDaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverview_TuneInRecommendations_TVShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowPromos_TuneInConversionsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SpotOverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SpotOverview_CreativeDownloadsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SubsidiariesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsFrequency_CreativesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsFrequency_OverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsMediaConversions_AiringsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsMediaConversions_DaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsMediaConversions_NetworksPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsMediaConversions_ShowGenresPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsMediaConversions_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsMediaConversions_SpotsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsRecommendations_DaypartsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversionsRecommendations_ShowsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversions_Allocation_Lift_DaypartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversions_Allocation_Lift_NetworkFamilyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversions_Allocation_Lift_NetworkPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversions_CreativePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TVConversions_OverviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/TuneInConversionsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/util/BrandAccount_NavigateToPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/util/NetworkAccount_NavigateToPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/analytics/qa/util/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/analytics/qa/util/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_AccountInfoPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_BrandsofInterestPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_EmailPasswordPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_NotificationsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_UserManagementPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_AiringsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_BrandsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_CreativeWearPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_CreativesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_DaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_IndustriesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_ShowGenresPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_SpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/BrandOverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalyticsMatchedDigital_OnlineViewsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalyticsMatchedDigital_OverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalyticsMatchedDigital_SearchActivityPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalyticsMatchedDigital_SocialActivityPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_BrandsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_CreativesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_DaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_EpisodesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_IndustriesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_LifetimeRatingsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_SpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_AttentionAnalytics_BrandsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_AttentionAnalytics_IndustriesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_AttentionAnalytics_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_AttentionAnalytics_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_AttentionAnalytics_SpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_EngagementAnalytics_BrandsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_EngagementAnalytics_IndustriesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_EngagementAnalytics_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_EngagementAnalytics_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_EngagementAnalytics_SpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_MediaMeasurement_BrandsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_MediaMeasurement_IndustriesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_MediaMeasurement_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_MediaMeasurement_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Global_MediaMeasurement_SpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/IndustryOverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_CustomIndustriesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_CustomReportsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_NewSpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_PivotReportPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_SpendComparisonPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/LoginToAllPagesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_AiringsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_BrandsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_CreativesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_DMAsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_DaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_IndustriesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_LocalAiringsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_ShowGenresPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_SpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MixedAccessCopyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MixedAccessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MovieConversionsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MovieConversions_CreativesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MovieConversions_MediaConversions_AiringsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MovieConversions_MediaConversions_DaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MovieConversions_MediaConversions_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MovieConversions_MediaConversions_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MovieConversions_OverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/NetworkOverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/NetworkOverview_TuneInConversionsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/OTTAnalytics_FrequencyPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/OTTAnalytics_ImpressionsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/OTTAnalytics_PublishersPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/OTTAnalytics_ReachPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SegmentAnalyticsRecommendations_DaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SegmentAnalyticsRecommendations_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SegmentAnalytics_ConversionsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SegmentAnalytics_MediaPlanningPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInConversions_AiringsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInConversions_CreativesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInConversions_DaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInConversions_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInConversions_OverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInConversions_ShowGenresPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInConversions_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInConversions_SpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInRecommendations_CableDaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverview_TuneInRecommendations_TVShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SpotOverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SpotOverview_CreativeDownloadsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SubsidiariesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsFrequency_CreativesPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsFrequency_OverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsMediaConversions_AiringsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsMediaConversions_DaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsMediaConversions_NetworksPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsMediaConversions_ShowGenresPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsMediaConversions_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsMediaConversions_SpotsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsRecommendations_DaypartsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversionsRecommendations_ShowsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversions_Allocation_Lift_DaypartPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversions_Allocation_Lift_NetworkFamilyPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversions_Allocation_Lift_NetworkPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversions_CreativePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TVConversions_OverviewPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/TuneInConversionsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/ExtentReportListener/ExtentReporterNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/ExtentReportListener/ExtentReporterNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/base/CapabilityFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/base/CapabilityFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/base/OptionsManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/base/OptionsManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Account_AccountInfoPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Account_BrandsofInterestPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Account_EmailPasswordPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Account_NotificationsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Account_UserManagementPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AgreementsAndTermsOfUsePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_AiringsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_BrandsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_CreativeWearPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_CreativesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_DaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_IndustriesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_ShowGenresPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/AttentionAnalytics_SpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/BrandOverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/CopyrightPolicyPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalyticsMatchedDigital_OnlineViewsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalyticsMatchedDigital_OverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalyticsMatchedDigital_SearchActivityPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalyticsMatchedDigital_SocialActivityPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_BrandsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_CreativesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_DaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_EpisodesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_IndustriesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_LifetimeRatingsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/EngagementAnalytics_SpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_AttentionAnalytics_BrandsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_AttentionAnalytics_IndustriesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_AttentionAnalytics_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_AttentionAnalytics_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_AttentionAnalytics_SpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_EngagementAnalytics_BrandsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_EngagementAnalytics_IndustriesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_EngagementAnalytics_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_EngagementAnalytics_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_EngagementAnalytics_SpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_MediaMeasurement_BrandsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_MediaMeasurement_IndustriesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_MediaMeasurement_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_MediaMeasurement_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Global_MediaMeasurement_SpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/IndustryOverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Insights_CustomIndustriesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Insights_CustomReportsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Insights_NewSpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Insights_PivotReportPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/Insights_SpendComparisonPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/LoginToAllPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_AiringsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_BrandsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_CreativesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_DMAsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_DaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_IndustriesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_LocalAiringsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_ShowGenresPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MediaMeasurement_SpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MixedAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MovieConversionsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MovieConversions_CreativesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MovieConversions_MediaConversions_AiringsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MovieConversions_MediaConversions_DaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MovieConversions_MediaConversions_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MovieConversions_MediaConversions_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/MovieConversions_OverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/NetworkOverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/NetworkOverview_TuneInConversionsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/OTTAnalytics_FrequencyPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/OTTAnalytics_ImpressionsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/OTTAnalytics_PublishersPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/OTTAnalytics_ReachPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/PrivacyPolicyPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/SegmentAnalyticsRecommendations_DaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/SegmentAnalyticsRecommendations_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/SegmentAnalytics_ConversionsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/SegmentAnalytics_MediaPlanningPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInConversions_AiringsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInConversions_CreativesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInConversions_DaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInConversions_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInConversions_OverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInConversions_ShowGenresPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInConversions_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInConversions_SpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInRecommendations_CableDaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowOverview_TuneInRecommendations_TVShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/ShowPromos_TuneInConversionsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/SpotOverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/SpotOverview_CreativeDownloadsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/SubsidiariesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsFrequency_CreativesPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsFrequency_OverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsMediaConversions_AiringsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsMediaConversions_DaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsMediaConversions_NetworksPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsMediaConversions_ShowGenresPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsMediaConversions_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsMediaConversions_SpotsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsRecommendations_DaypartsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversionsRecommendations_ShowsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversions_Allocation_Lift_DaypartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversions_Allocation_Lift_NetworkFamilyPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversions_Allocation_Lift_NetworkPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversions_CreativePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TVConversions_OverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/page/TuneInConversionsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/BrandAccount_NavigateToPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/ExtentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/ExtentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/ExtentTestManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/ExtentTestManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/Listeners.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/Listeners.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/NetworkAccount_NavigateToPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/RetryAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/RetryAnalyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/RetryTestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/RetryTestListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/TestListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/TestUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/TestUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/TestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/TestUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/Transformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/analytics/qa/util/Transformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Account_AccountInfoPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Account_BrandsofInterestPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Account_EmailPasswordPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Account_NotificationsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Account_UserManagementPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_AiringsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_BrandsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_CreativeWearPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_CreativesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_DaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_IndustriesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_ShowGenresPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/AttentionAnalytics_SpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/BrandOverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalyticsMatchedDigital_OnlineViewsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalyticsMatchedDigital_OverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalyticsMatchedDigital_SearchActivityPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalyticsMatchedDigital_SocialActivityPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_BrandsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_CreativesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_DaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_EpisodesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_IndustriesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_LifetimeRatingsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/EngagementAnalytics_SpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_AttentionAnalytics_BrandsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_AttentionAnalytics_IndustriesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_AttentionAnalytics_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_AttentionAnalytics_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_AttentionAnalytics_SpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_EngagementAnalytics_BrandsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_EngagementAnalytics_IndustriesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_EngagementAnalytics_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_EngagementAnalytics_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_EngagementAnalytics_SpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_MediaMeasurement_BrandsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_MediaMeasurement_IndustriesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_MediaMeasurement_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_MediaMeasurement_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Global_MediaMeasurement_SpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/IndustryOverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Insights_CustomIndustriesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Insights_CustomReportsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Insights_NewSpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Insights_PivotReportPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/Insights_SpendComparisonPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/LoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/LoginToAllPagesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_AiringsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_BrandsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_CreativesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_DMAsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_DaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_IndustriesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_LocalAiringsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_ShowGenresPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MediaMeasurement_SpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MixedAccessCopyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MixedAccessTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MovieConversionsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MovieConversions_CreativesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MovieConversions_MediaConversions_AiringsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MovieConversions_MediaConversions_DaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MovieConversions_MediaConversions_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MovieConversions_MediaConversions_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/MovieConversions_OverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/NetworkOverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/NetworkOverview_TuneInConversionsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/OTTAnalytics_FrequencyPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/OTTAnalytics_ImpressionsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/OTTAnalytics_PublishersPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/OTTAnalytics_ReachPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/SegmentAnalyticsRecommendations_DaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/SegmentAnalyticsRecommendations_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/SegmentAnalytics_ConversionsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/SegmentAnalytics_MediaPlanningPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInConversions_AiringsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInConversions_CreativesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInConversions_DaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInConversions_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInConversions_OverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInConversions_ShowGenresPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInConversions_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInConversions_SpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInRecommendations_CableDaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/ShowOverview_TuneInRecommendations_TVShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/SpotOverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/SpotOverview_CreativeDownloadsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/SubsidiariesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsFrequency_CreativesPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsFrequency_OverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsMediaConversions_AiringsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsMediaConversions_DaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsMediaConversions_NetworksPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsMediaConversions_ShowGenresPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsMediaConversions_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsMediaConversions_SpotsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsRecommendations_DaypartsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversionsRecommendations_ShowsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversions_Allocation_Lift_DaypartPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversions_Allocation_Lift_NetworkFamilyPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversions_Allocation_Lift_NetworkPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversions_CreativePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TVConversions_OverviewPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/analytics/qa/testcases/TuneInConversionsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Extent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_AA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_AA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_Brand-Overview-Complete.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_BrandOverview-EA-SA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_BrandOverview-GEA-GAA-GMM-Insights-Account.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_BrandOverview-MM-AA-BO.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_BrandOverview-TVC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_Filters.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_IndustryOverview-EA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_IndustryOverview-MM-AA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_LocalTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_MixedAccess.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_MovieConversions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_OTTPages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_SO_TuneInConversions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_ShowOverview-EA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_ShowOverview-MM-AA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_SmokeTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_SpotOverview-MM-AA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_SpotOverview_EA.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AnalyticsAutomation$AttentionAnalytics_DaypartsPageTest_TopDayparts_EllipsisTest.ic" NAME="AttentionAnalytics_DaypartsPageTest.TopDayparts_EllipsisTest Coverage Results" MODIFIED="1552585234668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.analytics.qa.testcases.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AnalyticsAutomation$MediaMeasurement_DaypartsPageTest_TopDayparts_EllipsisTest.ic" NAME="MediaMeasurement_DaypartsPageTest.TopDayparts_EllipsisTest Coverage Results" MODIFIED="1551827382088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.analytics.qa.testcases.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AnalyticsAutomation$_Users_ssawhney_IntelliJ_workspace_AnalyticsAutomationFramework_testng_Attention_xml.ic" NAME="$PROJECT_DIR$/testng_Attention.xml Coverage Results" MODIFIED="1566251402778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AnalyticsAutomation$_Users_ssawhney_IntelliJ_workspace_AnalyticsAutomationFramework_Complete_with_Parallel_testng_BrandAccount1copy_xml.ic" NAME="$PROJECT_DIR$/testng_BrandAccount1copy.xml Coverage Results" MODIFIED="1571761756734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AnalyticsAutomation$_Users_ssawhney_IntelliJ_workspace_AnalyticsAutomationFramework_testng_AttentionAnalytics_xml.ic" NAME="$PROJECT_DIR$/testng_AttentionAnalytics.xml Coverage Results" MODIFIED="1552920108383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AnalyticsAutomation$LoginPageTest.ic" NAME="LoginPageTest Coverage Results" MODIFIED="1542956568592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="221" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$USER_HOME$/Desktop/Filter/" userTempatePath="Filter" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1641227037">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="config" value="3" />
+          <entry key="dummy" value="17" />
+          <entry key="java" value="15812" />
+          <entry key="properties" value="22" />
+          <entry key="xml" value="234" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="15812" />
+          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="Properties" value="10" />
+          <entry key="XML" value="234" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="2" />
+          <entry key="java" value="128" />
+          <entry key="name" value="1" />
+          <entry key="properties" value="5" />
+          <entry key="xml" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="128" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2060512132">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="357" />
+          <entry key="project.open.time.0" value="44" />
+          <entry key="project.open.time.1" value="70" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.3" value="13" />
+          <entry key="project.open.time.4" value="47" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="88" />
+          <entry key="project.open.time.6" value="60" />
+          <entry key="project.open.time.7" value="20" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.open.time.97" value="1" />
+          <entry key="project.opened" value="366" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="94" />
+          <entry key="java" value="255185" />
+          <entry key="md" value="7" />
+          <entry key="properties" value="238" />
+          <entry key="txt" value="3307" />
+          <entry key="xml" value="9083" />
+          <entry key="yml" value="1337" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Enforced Plain Text" value="576" />
+          <entry key="JAVA" value="255185" />
+          <entry key="PLAIN_TEXT" value="3408" />
+          <entry key="Properties" value="238" />
+          <entry key="XML" value="8507" />
+          <entry key="YAML" value="1337" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1" value="1" />
+          <entry key="class" value="30" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="22" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="12146" />
+          <entry key="kt" value="1" />
+          <entry key="log" value="6" />
+          <entry key="md" value="3" />
+          <entry key="png" value="12" />
+          <entry key="properties" value="41" />
+          <entry key="sh" value="1" />
+          <entry key="xml" value="1219" />
+          <entry key="xml_old" value="1" />
+          <entry key="yml" value="137" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="30" />
+          <entry key="Enforced Plain Text" value="56" />
+          <entry key="HTML" value="20" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="12" />
+          <entry key="JAVA" value="12144" />
+          <entry key="Kotlin" value="1" />
+          <entry key="Log" value="3" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Properties" value="41" />
+          <entry key="Scratch" value="2" />
+          <entry key="XML" value="1166" />
+          <entry key="YAML" value="137" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1066771620">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="477497398">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="27" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="27" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="846" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="846" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2023805882">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="10" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="935" />
+          <entry key="log" value="1" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Enforced Plain Text" value="2" />
+          <entry key="JAVA" value="935" />
+          <entry key="Log" value="1" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2737" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="418" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2737" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="418" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1384425781">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="48" />
+          <entry key="sh" value="1" />
+          <entry key="xml" value="19" />
+          <entry key="yml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="48" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="19" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="413" />
+          <entry key="txt" value="58" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="413" />
+          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2017395431">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="14" />
+          <entry key="dtd" value="1" />
+          <entry key="html" value="1" />
+          <entry key="java" value="48" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="14" />
+          <entry key="DTD" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="48" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2905" />
+          <entry key="properties" value="5" />
+          <entry key="xml" value="84" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2905" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="84" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AnalyticsAutomation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2145">
+              <caret line="143" column="14" selection-start-line="128" selection-start-column="1" selection-end-line="143" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/LoginPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="68" column="90" selection-start-line="68" selection-start-column="90" selection-end-line="68" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SignUpPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/page/LoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/base/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testng_AA.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setUp10</find>
+      <find>testUtil.waitForPageLoad();</find>
+      <find>ShowOver</find>
+      <find>LocalTest</find>
+      <find>//SPOT</find>
+      <find>.fixme table:nth-of-type(2) .js-completionRateColumn [data-button]</find>
+      <find>.fixme table:nth-of-type(2) .js-airingsColumn [data-button]</find>
+      <find>js</find>
+      <find>exec</find>
+      <find>https://analytics.ispot.tv</find>
+      <find>ShowOverview</find>
+      <find>https://uat3-analytics.ispot.tv</find>
+      <find>a href=&quot;/dashboard/pivot/index&quot;</find>
+      <find>@Test(alwaysRun = true, groups = &quot;Regression&quot;)</find>
+      <find>executor.executeScript(&quot;arguments[0].click();&quot;, InsightsLink);</find>
+      <find>testUtil.waitFor</find>
+      <find>Account_CustomReportsPage</find>
+      <find>@Test(alwaysRun = true, groups = {&quot;Regression&quot;,&quot;LocalTest&quot;})</find>
+      <find>https://beta-analytics.ispot.tv</find>
+      <find>executor.executeScript</find>
+      <find>URL</find>
+      <find>get</find>
+      <find>Insight</find>
+      <find>AttentionIndex</find>
+      <find>url</find>
+      <find>testUtil\.JSErrorListener\(\)\;\n</find>
+      <find>MovieDisplayRealSteel</find>
+      <find>javascript</find>
+      <find>AnalyticsNetwork</find>
+      <find>Analytics</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>WebElement Details_CompletionRateText;</replace>
+      <replace>WebElement Details_CompletionRateToolTip;</replace>
+      <replace>.fixme table:nth-of-type(2) .js-completionRateColumn [data-button]</replace>
+      <replace>.js-completionRateColumn</replace>
+      <replace>xpath = &quot;//div[@data-order='completionRate'</replace>
+      <replace>@FindBy(css = &quot;.fixme table:nth-of-type(2) .js-completionRateColumn [data-button]&quot;)</replace>
+      <replace>@FindBy(css = &quot;.fixme table:nth-of-type(2) .js-completionRateColumn [data-toggle]&quot;)</replace>
+      <replace>https://analytics.ispot.tv/dashboard/brand/dHP/overview?dateRange=14</replace>
+      <replace>getDriver().navigate().to(&quot;https://analytics.ispot.tv/dashboard/industry/YP/overview?dateRange=14&quot;);</replace>
+      <replace>getDriver().navigate().to(“https://analytics.ispot.tv/dashboard/network/ZE/overview?dateRange=14&quot;);</replace>
+      <replace>CompletionRate</replace>
+      <replace>getDriver().navigate().to(“https://analytics.ispot.tv/dashboard/show/EP01280105/overview?dateRange=14”);</replace>
+      <replace>getDriver().navigate().to(&quot;https://analytics.ispot.tv/dashboard/show/EP01280105/overview?dateRange=14&quot;);</replace>
+      <replace>https://analytics.ispot.tv/dashboard/spot/nIrb/overview?dateRange=14</replace>
+      <replace>https://analytics.ispot.tv/dashboard/spot/ZgSo/movie-conversion-overview?dateRange=30&amp;attrWindow=30d</replace>
+      <replace>&quot;https:</replace>
+      <replace>Measures the completion rate of your ad against the completion norm, showing the performance of your ad relative to an average ad of the same type. The average is represented by a score of 100, within a range from 0 to 200.</replace>
+      <replace>represents the Attention of a specific creative or program placement vs the average. The average is represented by a score of 100, and the total index range is from 0 through 200.</replace>
+      <replace />
+      <replace>Wear is determined by looking at the percent drop in attention over time compared to the peak attention across the lifetime of the ad. This is calculated using a 3-day moving average and reported on as None, Light, Medium and Heavy.</replace>
+      <replace>https://uat3-analytics.ispot.tv</replace>
+      <replace>https://beta-analytics.ispot.tv</replace>
+      <replace>InsightsLink.click();</replace>
+      <replace>AccountLink.click();</replace>
+      <replace>@Test(alwaysRun = true, groups = {&quot;Regression&quot;,&quot;LocalTest&quot;})</replace>
+      <replace>@Test(alwaysRun = true, groups = {&quot;Regression&quot;})</replace>
+      <replace>https://analytics.ispot.tv</replace>
+      <replace>// testUtil.waitForPageLoad();         Thread.sleep(3000);</replace>
+      <replace>MovieTextRealSteel</replace>
+      <replace>Demo</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/analytics/qa/util</dir>
+      <dir>$PROJECT_DIR$/.idea</dir>
+      <dir>$PROJECT_DIR$/src/main/java/com/analytics/qa</dir>
+      <dir>$PROJECT_DIR$/</dir>
+      <dir>$PROJECT_DIR$/src/test/java/com/analytics/qa/com/analytics/qa/testcases</dir>
+      <dir>$PROJECT_DIR$/src/main</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/main/java/com/analytics/qa/base</dir>
+      <dir>$PROJECT_DIR$/src/test/java</dir>
+      <dir>$PROJECT_DIR$/src/test</dir>
+      <dir>$PROJECT_DIR$/src/main/java/com/analytics/qa/page</dir>
+      <dir>$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_AttentionAnalytics_BrandsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_CreativeWearPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/Global_AttentionAnalytics_IndustriesPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/IndustryOverviewPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/IndustryOverviewPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/NetworkOverviewPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/NetworkOverviewPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SpotOverviewPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SpotOverviewPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/ShowOverviewPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/ShowOverviewPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_CreativesPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_ShowsPage.java" />
+        <option value="$PROJECT_DIR$/testng_LocalTesting.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_NetworksPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_AiringsPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_CreativeWearPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/AttentionAnalytics_ShowsPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/MediaMeasurement_AiringsPageTest.java" />
+        <option value="$PROJECT_DIR$/.circleci/config.yml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_CustomIndustriesPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_SpendComparisonPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_NotificationsPageTest.java" />
+        <option value="$PROJECT_DIR$/testng_IndustryOverview-AA.xml" />
+        <option value="$PROJECT_DIR$/testng_SmokeTest.xml" />
+        <option value="$PROJECT_DIR$/testng_LocalTest.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_CustomReportsPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_PivotReportPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_UserManagementPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_EmailPasswordPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_BrandsofInterestPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_AccountInfoPageTest.java" />
+        <option value="$PROJECT_DIR$/testngoriginal.xml" />
+        <option value="$PROJECT_DIR$/testng_BrandOverview-GEA-GAA-GMM-Insights-Account.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_NewSpotsPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/CapabilityFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/util/NetworkAccount_NavigateToPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_ShowsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/util/BrandAccount_NavigateToPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_ShowsPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/BrandOverviewPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/BrandOverviewPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SignUpPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/util/TestUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SignUpPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/OptionsManager.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/base/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/analytics/qa/page/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/LoginPageTest.java" />
+        <option value="$PROJECT_DIR$/testng_AA.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AnalyticsAutomation" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="217" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="CatdeaLogs" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnalyticsAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AmazonWebSite" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_LifetimeRatingsPageTest.java&#10;ase &#9;PSI&#9;JAVA://com.sun.org.apache.xalan.internal.xsltc.compiler.StartsWithCall#_base&#10;PageLoad&#9;PSI&#9;JAVA://com.analytics.qa.util.TestUtil#PAGE_LOAD_TIMEOUT&#10;showOver&#9;PSI&#9;JAVA://com.analytics.qa.testcases.SegmentAnalyticsRecommendations_ShowsPageTest#showOverviewPage&#10;NetworkOverview&#9;PSI&#9;JAVA://com.analytics.qa.testcases.TVConversionsMediaConversions_NetworksPageTest#networkOverviewPage&#10;Meter&#9;PSI&#9;JAVA://com.analytics.qa.page.MediaMeasurement_DMAsPage#Details_NationalImpIndexMeterToolTip&#10;Sorting&#9;PSI&#9;JAVA://com.analytics.qa.testcases.MediaMeasurement_CreativesPageTest#Details_Airings_SortingTest&#10;DownloadDataPopUpDisplay&#9;PSI&#9;JAVA://com.analytics.qa.page.TVConversions_Allocation_Lift_DaypartPage#validateTopDaypartsbyLift_DownloadDataPopUpDisplay&#10;_DownloadDataPopUpDisplay&#9;PSI&#9;JAVA://com.analytics.qa.page.MediaMeasurement_DMAsPage#validateDMAHeatmap_DownloadDataPopUpDisplay&#10;modal&#9;PSI&#9;JAVA://com.analytics.qa.page.SegmentAnalytics_ConversionsPage#Modal_GotIt&#10;settings.xm&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/deploy.jar!/com/sun/deploy/panel/settings.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603432249987" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.22988506" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test-output" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.analytics.qa.testcases" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/analytics/qa/page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml">
+    <configuration name="BrandOverviewPageTest.TopSpots_DropDownTest" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="AnalyticsAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.analytics.qa.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.analytics.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.analytics.qa.testcases.BrandOverviewPageTest" />
+      <option name="METHOD_NAME" value="TopSpots_DropDownTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TVConversionsMediaConversions_ShowsPageTest.DateDisplayed_Past7ButtonAndAttrWinTweleveHoursTest" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="AnalyticsAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.analytics.qa.page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.analytics.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.analytics.qa.testcases.TVConversionsMediaConversions_ShowsPageTest" />
+      <option name="METHOD_NAME" value="DateDisplayed_Past7ButtonAndAttrWinTweleveHoursTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AnalyticsAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_AA.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_BrandOverview-GEA-GAA-GMM-Insights-Account.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AnalyticsAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_BrandOverview-GEA-GAA-GMM-Insights-Account.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_BrandOverview-MM-AA-BO.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AnalyticsAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_BrandOverview-MM-AA-BO.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_LocalTest.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AnalyticsAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_LocalTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng1.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="AnalyticsAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng1.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_Attention.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="AnalyticsAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Attention.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_LocalTesting.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <output_file path="$USER_HOME$/Desktop/Filter" />
+      <module name="AnalyticsAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_LocalTesting.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_MixedAccess.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="AnalyticsAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_MixedAccess.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_SmokeTest.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AnalyticsAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_SmokeTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="AnalyticsAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng.xml" />
+      <item itemvalue="TestNG.BrandOverviewPageTest.TopSpots_DropDownTest" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng1.xml" />
+      <item itemvalue="TestNG.TVConversionsMediaConversions_ShowsPageTest.DateDisplayed_Past7ButtonAndAttrWinTweleveHoursTest" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_Attention.xml" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_MixedAccess.xml" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_LocalTesting.xml" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_SmokeTest.xml" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_LocalTest.xml" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_BrandOverview-GEA-GAA-GMM-Insights-Account.xml" />
+      <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_BrandOverview-MM-AA-BO.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" />
+        <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_BrandOverview-MM-AA-BO.xml" />
+        <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_BrandOverview-GEA-GAA-GMM-Insights-Account.xml" />
+        <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_LocalTest.xml" />
+        <item itemvalue="TestNG./Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework/testng_SmokeTest.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52f73dab-9295-4cfd-8452-ccc3209b5c23" name="Default Changelist" comment="" />
+      <created>1542683926718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542683926718</updated>
+    </task>
+    <task id="LOCAL-00432" summary="Prod(Insights)">
+      <created>1593930342555</created>
+      <option name="number" value="00432" />
+      <option name="presentableId" value="LOCAL-00432" />
+      <option name="project" value="LOCAL" />
+      <updated>1593930342555</updated>
+    </task>
+    <task id="LOCAL-00433" summary="Prod(SpotOverview-MMAA)">
+      <created>1593933855453</created>
+      <option name="number" value="00433" />
+      <option name="presentableId" value="LOCAL-00433" />
+      <option name="project" value="LOCAL" />
+      <updated>1593933855453</updated>
+    </task>
+    <task id="LOCAL-00434" summary="Prod(Accountchange)">
+      <created>1593933896954</created>
+      <option name="number" value="00434" />
+      <option name="presentableId" value="LOCAL-00434" />
+      <option name="project" value="LOCAL" />
+      <updated>1593933896954</updated>
+    </task>
+    <task id="LOCAL-00435" summary="Prod(spot MM AA)">
+      <created>1593967557472</created>
+      <option name="number" value="00435" />
+      <option name="presentableId" value="LOCAL-00435" />
+      <option name="project" value="LOCAL" />
+      <updated>1593967557472</updated>
+    </task>
+    <task id="LOCAL-00436" summary="Prod(spot MM AA)">
+      <created>1593967614210</created>
+      <option name="number" value="00436" />
+      <option name="presentableId" value="LOCAL-00436" />
+      <option name="project" value="LOCAL" />
+      <updated>1593967614210</updated>
+    </task>
+    <task id="LOCAL-00437" summary="Beta(TVC and Segments)">
+      <created>1594085306295</created>
+      <option name="number" value="00437" />
+      <option name="presentableId" value="LOCAL-00437" />
+      <option name="project" value="LOCAL" />
+      <updated>1594085306295</updated>
+    </task>
+    <task id="LOCAL-00438" summary="Beta(Smoke)">
+      <created>1594085431067</created>
+      <option name="number" value="00438" />
+      <option name="presentableId" value="LOCAL-00438" />
+      <option name="project" value="LOCAL" />
+      <updated>1594085431067</updated>
+    </task>
+    <task id="LOCAL-00439" summary="Beta(Smoke)">
+      <created>1594085607232</created>
+      <option name="number" value="00439" />
+      <option name="presentableId" value="LOCAL-00439" />
+      <option name="project" value="LOCAL" />
+      <updated>1594085607232</updated>
+    </task>
+    <task id="LOCAL-00440" summary="Beta(TVC)">
+      <created>1594085805420</created>
+      <option name="number" value="00440" />
+      <option name="presentableId" value="LOCAL-00440" />
+      <option name="project" value="LOCAL" />
+      <updated>1594085805421</updated>
+    </task>
+    <task id="LOCAL-00441" summary="Beta(MC)">
+      <created>1594099701284</created>
+      <option name="number" value="00441" />
+      <option name="presentableId" value="LOCAL-00441" />
+      <option name="project" value="LOCAL" />
+      <updated>1594099701285</updated>
+    </task>
+    <task id="LOCAL-00442" summary="prod(smoke)">
+      <created>1594163794300</created>
+      <option name="number" value="00442" />
+      <option name="presentableId" value="LOCAL-00442" />
+      <option name="project" value="LOCAL" />
+      <updated>1594163794301</updated>
+    </task>
+    <task id="LOCAL-00443" summary="prod(smoke)">
+      <created>1594167164426</created>
+      <option name="number" value="00443" />
+      <option name="presentableId" value="LOCAL-00443" />
+      <option name="project" value="LOCAL" />
+      <updated>1594167164426</updated>
+    </task>
+    <task id="LOCAL-00444" summary="prod(smoke)">
+      <created>1594168254461</created>
+      <option name="number" value="00444" />
+      <option name="presentableId" value="LOCAL-00444" />
+      <option name="project" value="LOCAL" />
+      <updated>1594168254461</updated>
+    </task>
+    <task id="LOCAL-00445" summary="prod(smoke)">
+      <created>1594168421907</created>
+      <option name="number" value="00445" />
+      <option name="presentableId" value="LOCAL-00445" />
+      <option name="project" value="LOCAL" />
+      <updated>1594168421908</updated>
+    </task>
+    <task id="LOCAL-00446" summary="prod(smoke)">
+      <created>1594177060234</created>
+      <option name="number" value="00446" />
+      <option name="presentableId" value="LOCAL-00446" />
+      <option name="project" value="LOCAL" />
+      <updated>1594177060234</updated>
+    </task>
+    <task id="LOCAL-00447" summary="Beta(smoke)">
+      <created>1594182188963</created>
+      <option name="number" value="00447" />
+      <option name="presentableId" value="LOCAL-00447" />
+      <option name="project" value="LOCAL" />
+      <updated>1594182188963</updated>
+    </task>
+    <task id="LOCAL-00448" summary="Beta(Regression)">
+      <created>1594185954083</created>
+      <option name="number" value="00448" />
+      <option name="presentableId" value="LOCAL-00448" />
+      <option name="project" value="LOCAL" />
+      <updated>1594185954083</updated>
+    </task>
+    <task id="LOCAL-00449" summary="Beta(Smoke)">
+      <created>1594186367361</created>
+      <option name="number" value="00449" />
+      <option name="presentableId" value="LOCAL-00449" />
+      <option name="project" value="LOCAL" />
+      <updated>1594186367361</updated>
+    </task>
+    <task id="LOCAL-00450" summary="Beta(Insignts/Accounts)">
+      <created>1594245339705</created>
+      <option name="number" value="00450" />
+      <option name="presentableId" value="LOCAL-00450" />
+      <option name="project" value="LOCAL" />
+      <updated>1594245339705</updated>
+    </task>
+    <task id="LOCAL-00451" summary="Beta(Regression)">
+      <created>1594261808078</created>
+      <option name="number" value="00451" />
+      <option name="presentableId" value="LOCAL-00451" />
+      <option name="project" value="LOCAL" />
+      <updated>1594261808079</updated>
+    </task>
+    <task id="LOCAL-00452" summary="Beta(Smoke)">
+      <created>1594262756376</created>
+      <option name="number" value="00452" />
+      <option name="presentableId" value="LOCAL-00452" />
+      <option name="project" value="LOCAL" />
+      <updated>1594262756376</updated>
+    </task>
+    <task id="LOCAL-00453" summary="Prod(Spot and Show - MM AA EA)">
+      <created>1594263493893</created>
+      <option name="number" value="00453" />
+      <option name="presentableId" value="LOCAL-00453" />
+      <option name="project" value="LOCAL" />
+      <updated>1594263493893</updated>
+    </task>
+    <task id="LOCAL-00454" summary="SmokeTest(Prod-testing)">
+      <created>1594773484535</created>
+      <option name="number" value="00454" />
+      <option name="presentableId" value="LOCAL-00454" />
+      <option name="project" value="LOCAL" />
+      <updated>1594773484535</updated>
+    </task>
+    <task id="LOCAL-00455" summary="Prod(BrandOverview)">
+      <created>1594780934224</created>
+      <option name="number" value="00455" />
+      <option name="presentableId" value="LOCAL-00455" />
+      <option name="project" value="LOCAL" />
+      <updated>1594780934224</updated>
+    </task>
+    <task id="LOCAL-00456" summary="Smoke">
+      <created>1594785587749</created>
+      <option name="number" value="00456" />
+      <option name="presentableId" value="LOCAL-00456" />
+      <option name="project" value="LOCAL" />
+      <updated>1594785587750</updated>
+    </task>
+    <task id="LOCAL-00457" summary="Prod(Regression)">
+      <created>1594787817934</created>
+      <option name="number" value="00457" />
+      <option name="presentableId" value="LOCAL-00457" />
+      <option name="project" value="LOCAL" />
+      <updated>1594787817934</updated>
+    </task>
+    <task id="LOCAL-00458" summary="Smoke">
+      <created>1594787983459</created>
+      <option name="number" value="00458" />
+      <option name="presentableId" value="LOCAL-00458" />
+      <option name="project" value="LOCAL" />
+      <updated>1594787983459</updated>
+    </task>
+    <task id="LOCAL-00459" summary="Prod(Regression)">
+      <created>1594858804496</created>
+      <option name="number" value="00459" />
+      <option name="presentableId" value="LOCAL-00459" />
+      <option name="project" value="LOCAL" />
+      <updated>1594858804496</updated>
+    </task>
+    <task id="LOCAL-00460" summary="Prod(Smoke)">
+      <created>1595386761078</created>
+      <option name="number" value="00460" />
+      <option name="presentableId" value="LOCAL-00460" />
+      <option name="project" value="LOCAL" />
+      <updated>1595386761079</updated>
+    </task>
+    <task id="LOCAL-00461" summary="Prod(Smoke)">
+      <created>1595387651709</created>
+      <option name="number" value="00461" />
+      <option name="presentableId" value="LOCAL-00461" />
+      <option name="project" value="LOCAL" />
+      <updated>1595387651710</updated>
+    </task>
+    <task id="LOCAL-00462" summary="Prod(Smoke)">
+      <created>1595387667158</created>
+      <option name="number" value="00462" />
+      <option name="presentableId" value="LOCAL-00462" />
+      <option name="project" value="LOCAL" />
+      <updated>1595387667159</updated>
+    </task>
+    <task id="LOCAL-00463" summary="Prod(Smoke)">
+      <created>1595387773175</created>
+      <option name="number" value="00463" />
+      <option name="presentableId" value="LOCAL-00463" />
+      <option name="project" value="LOCAL" />
+      <updated>1595387773175</updated>
+    </task>
+    <task id="LOCAL-00464" summary="Prod(Smoke)">
+      <created>1595387806630</created>
+      <option name="number" value="00464" />
+      <option name="presentableId" value="LOCAL-00464" />
+      <option name="project" value="LOCAL" />
+      <updated>1595387806630</updated>
+    </task>
+    <task id="LOCAL-00465" summary="Prod(Smoke)">
+      <created>1595398232718</created>
+      <option name="number" value="00465" />
+      <option name="presentableId" value="LOCAL-00465" />
+      <option name="project" value="LOCAL" />
+      <updated>1595398232718</updated>
+    </task>
+    <task id="LOCAL-00466" summary="Prod(Smoke)">
+      <created>1595455962819</created>
+      <option name="number" value="00466" />
+      <option name="presentableId" value="LOCAL-00466" />
+      <option name="project" value="LOCAL" />
+      <updated>1595455962819</updated>
+    </task>
+    <task id="LOCAL-00467" summary="Prod(Smoke)">
+      <created>1595460390614</created>
+      <option name="number" value="00467" />
+      <option name="presentableId" value="LOCAL-00467" />
+      <option name="project" value="LOCAL" />
+      <updated>1595460390614</updated>
+    </task>
+    <task id="LOCAL-00468" summary="Beta(Smoke)">
+      <created>1595521932659</created>
+      <option name="number" value="00468" />
+      <option name="presentableId" value="LOCAL-00468" />
+      <option name="project" value="LOCAL" />
+      <updated>1595521932659</updated>
+    </task>
+    <task id="LOCAL-00469" summary="Beta(Smoke)">
+      <created>1595524044366</created>
+      <option name="number" value="00469" />
+      <option name="presentableId" value="LOCAL-00469" />
+      <option name="project" value="LOCAL" />
+      <updated>1595524044366</updated>
+    </task>
+    <task id="LOCAL-00470" summary="Prod(Smoke)">
+      <created>1595526735373</created>
+      <option name="number" value="00470" />
+      <option name="presentableId" value="LOCAL-00470" />
+      <option name="project" value="LOCAL" />
+      <updated>1595526735373</updated>
+    </task>
+    <task id="LOCAL-00471" summary="Beta(Smoke)">
+      <created>1595534922964</created>
+      <option name="number" value="00471" />
+      <option name="presentableId" value="LOCAL-00471" />
+      <option name="project" value="LOCAL" />
+      <updated>1595534922964</updated>
+    </task>
+    <task id="LOCAL-00472" summary="Withattention">
+      <created>1595550413587</created>
+      <option name="number" value="00472" />
+      <option name="presentableId" value="LOCAL-00472" />
+      <option name="project" value="LOCAL" />
+      <updated>1595550413587</updated>
+    </task>
+    <task id="LOCAL-00473" summary="Prod(global)">
+      <created>1595552611462</created>
+      <option name="number" value="00473" />
+      <option name="presentableId" value="LOCAL-00473" />
+      <option name="project" value="LOCAL" />
+      <updated>1595552611462</updated>
+    </task>
+    <task id="LOCAL-00474" summary="Prod(global)">
+      <created>1595565150281</created>
+      <option name="number" value="00474" />
+      <option name="presentableId" value="LOCAL-00474" />
+      <option name="project" value="LOCAL" />
+      <updated>1595565150281</updated>
+    </task>
+    <task id="LOCAL-00475" summary="Beta(smoke)">
+      <created>1595597474076</created>
+      <option name="number" value="00475" />
+      <option name="presentableId" value="LOCAL-00475" />
+      <option name="project" value="LOCAL" />
+      <updated>1595597474077</updated>
+    </task>
+    <task id="LOCAL-00476" summary="Prod(Global)">
+      <created>1595618062321</created>
+      <option name="number" value="00476" />
+      <option name="presentableId" value="LOCAL-00476" />
+      <option name="project" value="LOCAL" />
+      <updated>1595618062321</updated>
+    </task>
+    <task id="LOCAL-00477" summary="Prod(Global)">
+      <created>1595624496066</created>
+      <option name="number" value="00477" />
+      <option name="presentableId" value="LOCAL-00477" />
+      <option name="project" value="LOCAL" />
+      <updated>1595624496067</updated>
+    </task>
+    <task id="LOCAL-00478" summary="Prod(Global)">
+      <created>1595625048777</created>
+      <option name="number" value="00478" />
+      <option name="presentableId" value="LOCAL-00478" />
+      <option name="project" value="LOCAL" />
+      <updated>1595625048777</updated>
+    </task>
+    <task id="LOCAL-00479" summary="Prod(Global)">
+      <created>1595626259595</created>
+      <option name="number" value="00479" />
+      <option name="presentableId" value="LOCAL-00479" />
+      <option name="project" value="LOCAL" />
+      <updated>1595626259595</updated>
+    </task>
+    <task id="LOCAL-00480" summary="Prod(Global)">
+      <created>1595629921032</created>
+      <option name="number" value="00480" />
+      <option name="presentableId" value="LOCAL-00480" />
+      <option name="project" value="LOCAL" />
+      <updated>1595629921032</updated>
+    </task>
+    <option name="localTasksCounter" value="481" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.11 at 13h 03m 13s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.11 at 13h 03m 54s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.11 at 13h 04m 44s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.11 at 13h 08m 38s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.11 at 13h 09m 47s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.12 at 15h 03m 02s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.12 at 15h 03m 09s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.12 at 15h 03m 51s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.12 at 15h 05m 03s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_ssawhney_IntelliJ-workspace_AnalyticsAutomationFramework-WithAttention3_0_testng_AA_xml - 2020.10.12 at 15h 05m 38s.xml">
+      <configuration name="/Users/ssawhney/IntelliJ-workspace/AnalyticsAutomationFramework-WithAttention3.0/testng_AA.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="217" y="23" width="1680" height="980" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.60903424" visible="true" weight="0.26739928" />
+      <window_info id="Structure" order="1" sideWeight="0.3903577" side_tool="true" weight="0.34583333" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.38963965" side_tool="true" weight="0.35470086" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32094595" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.35042736" weight="0.2894144" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4346847" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946237" weight="0.26292628" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4368476" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.14752252" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.6495727" side_tool="true" weight="0.29054055" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.42246643" weight="0.26463965" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.32995495" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.083599575" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24986681" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32864583" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prod(Atttention and Media" />
+    <MESSAGE value="Prod(Ingights)" />
+    <MESSAGE value="Prod(AA MM)" />
+    <MESSAGE value="Prod(Insights)" />
+    <MESSAGE value="Prod(SpotOverview-MMAA)" />
+    <MESSAGE value="Prod(Accountchange)" />
+    <MESSAGE value="Prod(spot MM AA)" />
+    <MESSAGE value="Beta(TVC and Segments)" />
+    <MESSAGE value="Beta(TVC)" />
+    <MESSAGE value="Beta(MC)" />
+    <MESSAGE value="prod(smoke)" />
+    <MESSAGE value="Beta(Insignts/Accounts)" />
+    <MESSAGE value="Beta(Regression)" />
+    <MESSAGE value="Prod(Spot and Show - MM AA EA)" />
+    <MESSAGE value="SmokeTest(Prod-testing)" />
+    <MESSAGE value="Prod(BrandOverview)" />
+    <MESSAGE value="Smoke" />
+    <MESSAGE value="Prod(Regression)" />
+    <MESSAGE value="Prod(Smoke)" />
+    <MESSAGE value="Beta(Smoke)" />
+    <MESSAGE value="WithAttention" />
+    <MESSAGE value="Withattention" />
+    <MESSAGE value="Prod(global)" />
+    <MESSAGE value="Beta(smoke)" />
+    <MESSAGE value="Prod(Global)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prod(Global)" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_NotificationsPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/testngAccount.xml" />
+    <entry file="file://$PROJECT_DIR$/testng_BrandOverview-GEA-GAA-GMM-Insights-Account.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Insights_NewSpotsPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/page/AttentionAnalytics_CreativesPage.java" />
+    <entry file="file://$PROJECT_DIR$/testng_IndustryOverview-MM-AA.xml" />
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/Account_AccountInfoPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/.circleci/bin/test.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_CreativesPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_DaypartsPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/LoginToAllPagesTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/ExtentReportListener/ExtentReporterNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Results - TVConversions_OverviewPageTest.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/page/EngagementAnalytics_ShowsPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/EngagementAnalytics_ShowsPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/BrandOverviewPageTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/util/NetworkAccount_NavigateToPage.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/testng/lib/testng-plugin.jar!/resources/standardSchemas/testng-1.0.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/util/BrandAccount_NavigateToPage.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="28" column="97" selection-start-line="28" selection-start-column="97" selection-end-line="28" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/ImmutableMapEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/AbstractMapEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/RegularImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="130" selection-start-line="25" selection-start-column="130" selection-end-line="25" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/Hashing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="194" column="63" selection-start-line="194" selection-start-column="63" selection-end-line="194" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar!/com/google/common/collect/CollectPreconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/CommandInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/logging/LogType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="119" column="4" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/util/Listeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/ui/ExpectedCondition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/util/TestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="81" column="50" selection-start-line="81" selection-start-column="43" selection-end-line="81" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1148" selection-start-line="1148" selection-end-line="1148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/base/CapabilityFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/Extent.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/SignUpPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="112" selection-start-line="25" selection-start-column="112" selection-end-line="25" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/base/OptionsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/page/BrandOverviewPage.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="143" column="14" selection-start-line="128" selection-start-column="1" selection-end-line="143" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/analytics/qa/testcases/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="90" selection-start-line="68" selection-start-column="90" selection-end-line="68" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/page/SignUpPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/page/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/analytics/qa/base/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng_AA.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AnalyticsAutomation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22988506" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: avalon-framework:avalon-framework:4.1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22988506" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

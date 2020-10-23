@@ -1,0 +1,59 @@
+version: 2
+jobs:
+  build:
+    docker:
+    - image: circleci/openjdk:8u181-jdk-browsers
+    parallelism: 1
+    steps:
+    - checkout
+    - run:
+        name: Download Selenium & Maven
+        command: |
+          cat /etc/*-release
+          curl -O http://selenium-release.storage.googleapis.com/3.5/selenium-server-standalone-3.5.3.jar
+          sudo apt -qq update
+          sudo apt -qq install maven
+          mvn -version
+          which mvn
+
+    - run:
+        name: Setup Paths
+        command: |
+          export M2_HOME=/opt/apache-maven/ >> $BASH_ENV
+          echo $M2_HOME
+          echo $PATH
+          echo $JAVA_HOME
+
+    - run:
+        name: testng_BrandAccount
+        no_output_timeout: 60m
+        command: |
+          pwd
+          ls -lah
+          # java -jar selenium-server-standalone-3.5.3.jar -log test-reports/selenium.log
+          # mkdir seleniumgrid
+          # echo $(circleci tests glob "testng_Complete-GEA-test-*.xml")
+          # circleci tests glob "testng_Complete-GEA-test-*.xml" | circleci tests split > /tmp/tests-to-run
+          # cat /tmp/tests-to-run
+          .circleci/bin/test.sh
+          # .circleci/bin/testmovienew.sh
+          # mvn -Dsurefire.suiteXmlFiles=testng_Complete-*.xml test
+          # mvn -Dsurefire.suiteXmlFiles=testng_MixedAccess.xml test
+          # mvn -Dsurefire.suiteXmlFiles=testng_Complete-TVC.xml test
+
+        background: false
+
+    - run:
+        name: Reports
+        command: |
+          # pwd
+          # ls -lrht
+          cp target/surefire-reports/Extent.html test-output/Extent.html
+        when: always
+        background: false
+
+    - store_test_results:
+        path: test-output
+    - store_artifacts:
+        path: test-output
+        destination: html

@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "DemoFramework" parallel="classes" thread-count="2">
+    <listeners>
+        <listener class-name="com.analytics.qa.util.RetryTestListener"/>
+        <listener class-name="com.analytics.qa.util.Transformer"/>
+        <listener class-name="com.analytics.qa.ExtentReportListener.ExtentReporterNG" />
+        <listener class-name="com.analytics.qa.util.Listeners" />
+    </listeners>
+    <parameter name="browser" value="firefox"></parameter>
+    <parameter name="username" value=""></parameter>
+    <parameter name="password" value=""></parameter>
+    <parameter name="url" value="https://www.imdb.com/tv/"></parameter>
+    <test name = "Login">
+        <groups>
+            <run>
+                <include name="Regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.analytics.qa.testcases.LoginPageTest"/>
+        </classes>
+    </test>
+</suite>

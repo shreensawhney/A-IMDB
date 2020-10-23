@@ -1,0 +1,6 @@
+find: /usr/sbin/authserver: Permission denied
+find: /.Spotlight-V100: Permission denied
+find: /Library/Application Support/Apple/ParentalControls/Users: Permission denied
+find: /Library/Application Support/Apple/AssetCache/Data: Permission denied
+find: /Library/Application Support/ApplePushService: Permission denied
+find: /Library/Application Support/com.carbonblack.psc/Data: Permission denied
